@@ -21,12 +21,15 @@ sudo apt-get install xclip to install the xclip utility.
 I didn't use the following since I don't use pip:
 
 >pip install gtk
+
 >pip install PyQt4
 
 You can install the above in conda environment using:
 
 >conda install -c ostrokach gtk
+
 and
+
 >conda install -c anaconda pyqt
 
 It is important to restart the entire system after installation. Becuase the install might work in the Jupyter Notebook but can't work in Spyder.
