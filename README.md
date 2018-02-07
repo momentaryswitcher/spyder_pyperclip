@@ -19,10 +19,10 @@ sudo apt-get install xsel to install the xsel utility.
 sudo apt-get install xclip to install the xclip utility.
 
 I didn't use the following since I don't use pip:
-
+'''
 pip install gtk
 pip install PyQt4
-
+'''
 You can install the above in conda environment using:
 
 conda install -c ostrokach gtk
