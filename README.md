@@ -11,7 +11,7 @@ The error: Pyperclip could not find a copy/paste mechanism for your system. For 
 
 To resolve this, I installed pyperclip in the conda environment using the command:
 
-\conda install -c conda-forge pyperclip\
+'conda install -c conda-forge pyperclip'
 
 Also, run the following commands to fix the "Not Implemented Error":
 
